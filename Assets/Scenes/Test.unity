@@ -683,6 +683,9 @@ MonoBehaviour:
   moveSpeed: 8
   charCon: {fileID: 1492576641}
   camTrans: {fileID: 1997343649}
+  mouseSensitivity: 2
+  invertX: 0
+  invertY: 0
 --- !u!143 &1492576641
 CharacterController:
   m_ObjectHideFlags: 0
